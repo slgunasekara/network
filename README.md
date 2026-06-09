@@ -1,6 +1,11 @@
 ##Praveena Gunasekara (AMG)    
 #1 Step - run ServerInitializer  
 #2 Step - run ClientInitializer
+
+
+
+
+
 <img width="592" height="423" alt="n3" src="https://github.com/user-attachments/assets/5f77ad69-892f-4bc1-9c83-6b762fe2081c" />
 <img width="1363" height="768" alt="n4" src="https://github.com/user-attachments/assets/b9994599-1d6b-4778-8f6a-ab6f4fcbc7ca" />
 
